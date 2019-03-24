@@ -1,0 +1,7 @@
+Movie()
+{
+	MPAC = 0;
+	title = "unassigned";
+	yearReleased = 0;
+	runTime = 0;
+}

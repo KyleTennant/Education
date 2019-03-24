@@ -1,0 +1,16 @@
+East	1	100
+East	2	300
+East	3	500
+East	4	245
+West	1	1000
+West	2	1200
+West	3	750
+West	4	810
+North	1	810
+North	2	750
+North	3	450
+North	4	610
+South	1	250
+South	2	200
+South	3	450
+South	4	567
