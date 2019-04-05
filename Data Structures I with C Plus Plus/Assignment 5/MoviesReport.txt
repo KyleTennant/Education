@@ -1,0 +1,270 @@
+The following is the Webster Movies list:
+
+1101	Casablanca                    	1942	102 	6       	6       
+
+1200	Duck Soup                     	1933	68  	8       	3       
+
+1301	Citizen Kane                  	1941	119 	7       	2       
+
+1350	Animal House                  	1978	109 	3       	12      
+
+1405	My Favorite Brunette          	1947	87  	4       	7       
+
+2200	Gone with the Wind            	1939	226 	4       	10      
+
+2345	Public Enemy                  	1931	84  	6       	4       
+
+2870	Jazz Singer                   	1927	88  	9       	3       
+
+3103	White Christmas               	1954	120 	12      	1       
+
+3670	It's a Wonderful Life         	1946	130 	11      	2       
+
+4490	Doctor Zhivago                	1965	200 	8       	5       
+
+4876	Sound of Music                	1965	174 	7       	7       
+
+5102	Young Frankenstein            	1973	106 	0       	15      
+
+5234	King Kong                     	1933	100 	3       	9       
+
+5570	From Here to Eternity         	1953	118 	10      	3       
+
+6601	Wizard of Oz                  	1939	101 	4       	10      
+
+7109	Sergeant York                 	1941	134 	6       	6       
+
+8330	Topper                        	1937	98  	3       	8       
+
+9400	Caine Mutiny                  	1954	125 	8       	4       
+
+The transactions are:
+
+Movie 1200 was checked out.
+
+Movie 1101 was placed on the stack.
+
+Movie 7109 was placed on the stack.
+
+The clerk can process 1 return(s).
+
+Movie 7109 was checked in.
+
+The following is the Webster Movies list:
+
+1101	Casablanca                    	1942	102 	6       	6       
+
+1200	Duck Soup                     	1933	68  	7       	4       
+
+1301	Citizen Kane                  	1941	119 	7       	2       
+
+1350	Animal House                  	1978	109 	3       	12      
+
+1405	My Favorite Brunette          	1947	87  	4       	7       
+
+2200	Gone with the Wind            	1939	226 	4       	10      
+
+2345	Public Enemy                  	1931	84  	6       	4       
+
+2870	Jazz Singer                   	1927	88  	9       	3       
+
+3103	White Christmas               	1954	120 	12      	1       
+
+3670	It's a Wonderful Life         	1946	130 	11      	2       
+
+4490	Doctor Zhivago                	1965	200 	8       	5       
+
+4876	Sound of Music                	1965	174 	7       	7       
+
+5102	Young Frankenstein            	1973	106 	0       	15      
+
+5234	King Kong                     	1933	100 	3       	9       
+
+5570	From Here to Eternity         	1953	118 	10      	3       
+
+6601	Wizard of Oz                  	1939	101 	4       	10      
+
+7109	Sergeant York                 	1941	134 	7       	5       
+
+8330	Topper                        	1937	98  	3       	8       
+
+9400	Caine Mutiny                  	1954	125 	8       	4       
+
+Movie 1200 was checked out.
+
+Movie 1350 was checked out.
+
+Movie 3103 was checked out.
+
+Movie 1101 was placed on the stack.
+
+Movie 1101 was placed on the stack.
+
+Movie 6601 was placed on the stack.
+
+Movie 9400 was placed on the stack.
+
+Movie 2345 was placed on the stack.
+
+The clerk can process 3 return(s).
+
+Movie 2345 was checked in.
+
+Movie 9400 was checked in.
+
+Movie 6601 was checked in.
+
+The following is the Webster Movies list:
+
+1101	Casablanca                    	1942	102 	6       	6       
+
+1200	Duck Soup                     	1933	68  	6       	5       
+
+1301	Citizen Kane                  	1941	119 	7       	2       
+
+1350	Animal House                  	1978	109 	2       	13      
+
+1405	My Favorite Brunette          	1947	87  	4       	7       
+
+2200	Gone with the Wind            	1939	226 	4       	10      
+
+2345	Public Enemy                  	1931	84  	7       	3       
+
+2870	Jazz Singer                   	1927	88  	9       	3       
+
+3103	White Christmas               	1954	120 	11      	2       
+
+3670	It's a Wonderful Life         	1946	130 	11      	2       
+
+4490	Doctor Zhivago                	1965	200 	8       	5       
+
+4876	Sound of Music                	1965	174 	7       	7       
+
+5102	Young Frankenstein            	1973	106 	0       	15      
+
+5234	King Kong                     	1933	100 	3       	9       
+
+5570	From Here to Eternity         	1953	118 	10      	3       
+
+6601	Wizard of Oz                  	1939	101 	5       	9       
+
+7109	Sergeant York                 	1941	134 	7       	5       
+
+8330	Topper                        	1937	98  	3       	8       
+
+9400	Caine Mutiny                  	1954	125 	9       	3       
+
+Movie 4876 was checked out.
+
+Movie 5102 was placed on the stack.
+
+Movie 5102 was placed on the stack.
+
+Movie 2870 was checked out.
+
+Movie 1101 was checked out.
+
+The clerk can process 4 return(s).
+
+Movie 5102 was checked in.
+
+Movie 5102 was checked in.
+
+Movie 1101 was checked in.
+
+Movie 1101 was checked in.
+
+The following is the Webster Movies list:
+
+1101	Casablanca                    	1942	102 	7       	5       
+
+1200	Duck Soup                     	1933	68  	6       	5       
+
+1301	Citizen Kane                  	1941	119 	7       	2       
+
+1350	Animal House                  	1978	109 	2       	13      
+
+1405	My Favorite Brunette          	1947	87  	4       	7       
+
+2200	Gone with the Wind            	1939	226 	4       	10      
+
+2345	Public Enemy                  	1931	84  	7       	3       
+
+2870	Jazz Singer                   	1927	88  	8       	4       
+
+3103	White Christmas               	1954	120 	11      	2       
+
+3670	It's a Wonderful Life         	1946	130 	11      	2       
+
+4490	Doctor Zhivago                	1965	200 	8       	5       
+
+4876	Sound of Music                	1965	174 	6       	8       
+
+5102	Young Frankenstein            	1973	106 	2       	13      
+
+5234	King Kong                     	1933	100 	3       	9       
+
+5570	From Here to Eternity         	1953	118 	10      	3       
+
+6601	Wizard of Oz                  	1939	101 	5       	9       
+
+7109	Sergeant York                 	1941	134 	7       	5       
+
+8330	Topper                        	1937	98  	3       	8       
+
+9400	Caine Mutiny                  	1954	125 	9       	3       
+
+Movie 5102 was placed on the stack.
+
+Movie 8330 was placed on the stack.
+
+Movie 2200 was placed on the stack.
+
+Movie 5234 was checked out.
+
+Movie 8330 was checked out.
+
+Movie 8330 was checked out.
+
+The final WebsterMovies report for the day.
+
+The following is the Webster Movies list:
+
+1101	Casablanca                    	1942	102 	7       	5       
+
+1200	Duck Soup                     	1933	68  	6       	5       
+
+1301	Citizen Kane                  	1941	119 	7       	2       
+
+1350	Animal House                  	1978	109 	2       	13      
+
+1405	My Favorite Brunette          	1947	87  	4       	7       
+
+2200	Gone with the Wind            	1939	226 	4       	10      
+
+2345	Public Enemy                  	1931	84  	7       	3       
+
+2870	Jazz Singer                   	1927	88  	8       	4       
+
+3103	White Christmas               	1954	120 	11      	2       
+
+3670	It's a Wonderful Life         	1946	130 	11      	2       
+
+4490	Doctor Zhivago                	1965	200 	8       	5       
+
+4876	Sound of Music                	1965	174 	6       	8       
+
+5102	Young Frankenstein            	1973	106 	2       	13      
+
+5234	King Kong                     	1933	100 	2       	10      
+
+5570	From Here to Eternity         	1953	118 	10      	3       
+
+6601	Wizard of Oz                  	1939	101 	5       	9       
+
+7109	Sergeant York                 	1941	134 	7       	5       
+
+8330	Topper                        	1937	98  	1       	10      
+
+9400	Caine Mutiny                  	1954	125 	9       	3       
+

@@ -1,0 +1,237 @@
+
+Input Expression: 
+
+(Token 0): Push 0
+
+This is a valid RPN expression.
+
+The result is 0.
+
+
+Input Expression: 88 12 * 22 1120 8400 1600 / % +
+
+(Token 88): Push 88
+
+(Token 12): Push 12
+
+(Token *): Pop 12 Pop 88 Push 1056
+
+(Token 22): Push 22
+
+(Token 1120): Push 1120
+
+(Token 8400): Push 8400
+
+(Token 1600): Push 1600
+
+(Token /): Pop 1600 Pop 8400 Push 5
+
+(Token %): Pop 5 Pop 1120 Push 0
+
+(Token +): Pop 0 Pop 22 Push 22
+
+Not enough operators.
+
+This is an invalid RPN expression.
+
+
+Input Expression: 20 43 * 16 17 1190 % 54 99 71 42 / - 82 99 40 45 12 - / / * + % * - +
+
+(Token 20): Push 20
+
+(Token 43): Push 43
+
+(Token *): Pop 43 Pop 20 Push 860
+
+(Token 16): Push 16
+
+(Token 17): Push 17
+
+(Token 1190): Push 1190
+
+(Token %): Pop 1190 Pop 17 Push 17
+
+(Token 54): Push 54
+
+(Token 99): Push 99
+
+(Token 71): Push 71
+
+(Token 42): Push 42
+
+(Token /): Pop 42 Pop 71 Push 1
+
+(Token -): Pop 1 Pop 99 Push 98
+
+(Token 82): Push 82
+
+(Token 99): Push 99
+
+(Token 40): Push 40
+
+(Token 45): Push 45
+
+(Token 12): Push 12
+
+(Token -): Pop 12 Pop 45 Push 33
+
+(Token /): Pop 33 Pop 40 Push 1
+
+(Token /): Pop 1 Pop 99 Push 99
+
+(Token *): Pop 99 Pop 82 Push 8118
+
+(Token +): Pop 8118 Pop 98 Push 8216
+
+(Token %): Pop 8216 Pop 54 Push 54
+
+(Token *): Pop 54 Pop 17 Push 918
+
+(Token -): Pop 918 Pop 16 Push -902
+
+(Token +): Pop -902 Pop 860 Push -42
+
+This is a valid RPN expression.
+
+The result is -42.
+
+
+Input Expression: 136 66 % 7 - 5 /
+
+(Token 136): Push 136
+
+(Token 66): Push 66
+
+(Token %): Pop 66 Pop 136 Push 4
+
+(Token 7): Push 7
+
+(Token -): Pop 7 Pop 4 Push -3
+
+(Token 5): Push 5
+
+(Token /): Pop 5 Pop -3 Push 0
+
+This is a valid RPN expression.
+
+The result is 0.
+
+
+Input Expression: 136 66 7 5 % - /
+
+(Token 136): Push 136
+
+(Token 66): Push 66
+
+(Token 7): Push 7
+
+(Token 5): Push 5
+
+(Token %): Pop 5 Pop 7 Push 2
+
+(Token -): Pop 2 Pop 66 Push 64
+
+(Token /): Pop 64 Pop 136 Push 2
+
+This is a valid RPN expression.
+
+The result is 2.
+
+
+Input Expression: 99 88 %
+
+(Token 99): Push 99
+
+(Token 88): Push 88
+
+(Token %): Pop 88 Pop 99 Push 11
+
+This is a valid RPN expression.
+
+The result is 11.
+
+
+Input Expression: 4 5 7 2 + - *
+
+(Token 4): Push 4
+
+(Token 5): Push 5
+
+(Token 7): Push 7
+
+(Token 2): Push 2
+
+(Token +): Pop 2 Pop 7 Push 9
+
+(Token -): Pop 9 Pop 5 Push -4
+
+(Token *): Pop -4 Pop 4 Push -16
+
+This is a valid RPN expression.
+
+The result is -16.
+
+
+Input Expression: 9 2 1 + / 11 *
+
+(Token 9): Push 9
+
+(Token 2): Push 2
+
+(Token 1): Push 1
+
+(Token +): Pop 1 Pop 2 Push 3
+
+(Token /): Pop 3 Pop 9 Push 3
+
+(Token 11): Push 11
+
+(Token *): Pop 11 Pop 3 Push 33
+
+This is a valid RPN expression.
+
+The result is 33.
+
+
+Input Expression: 1 2 3 +
+
+(Token 1): Push 1
+
+(Token 2): Push 2
+
+(Token 3): Push 3
+
+(Token +): Pop 3 Pop 2 Push 5
+
+Not enough operators.
+
+This is an invalid RPN expression.
+
+
+Input Expression: 6 2 + +
+
+(Token 6): Push 6
+
+(Token 2): Push 2
+
+(Token +): Pop 2 Pop 6 Push 8
+
+(Token +): Pop 8
+
+Not enough operands.
+
+This is an invalid RPN expression.
+
+
+Input Expression: 8 4 /
+
+(Token 8): Push 8
+
+(Token 4): Push 4
+
+(Token /): Pop 4 Pop 8 Push 2
+
+This is a valid RPN expression.
+
+The result is 2.
+

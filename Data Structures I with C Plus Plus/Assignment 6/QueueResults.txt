@@ -1,0 +1,86 @@
+Question enqueued for customer A
+
+Question enqueued for customer A
+
+Question enqueued for customer B
+
+Question enqueued for customer B
+
+Question enqueued for customer B
+
+	Question dequeued for customer A
+
+Question enqueued for customer C
+
+	Question dequeued for customer A
+
+	Question dequeued for customer B
+
+	Question dequeued for customer B
+
+	Question dequeued for customer B
+
+	Question dequeued for customer C
+
+Phone Queue is empty; cannot remove from the queue
+
+Question enqueued for customer D
+
+Question enqueued for customer D
+
+Question enqueued for customer D
+
+Question enqueued for customer D
+
+Question enqueued for customer D
+
+Question enqueued for customer D
+
+Question enqueued for customer D
+
+Question enqueued for customer D
+
+Question enqueued for customer D
+
+Question enqueued for customer D
+
+Phone Queue is full; cannot add to the queue
+
+Phone Queue is full; cannot add to the queue
+
+Phone Queue is full; cannot add to the queue
+
+	Question dequeued for customer D
+
+	Question dequeued for customer D
+
+Question enqueued for customer E
+
+Question enqueued for customer E
+
+Phone Queue is full; cannot add to the queue
+
+Phone Queue is full; cannot add to the queue
+
+Phone Queue is full; cannot add to the queue
+
+	Question dequeued for customer D
+
+	Question dequeued for customer D
+
+	Question dequeued for customer D
+
+	Question dequeued for customer D
+
+	Question dequeued for customer D
+
+	Question dequeued for customer D
+
+	Question dequeued for customer D
+
+*****Final Phone Queue was*****
+
+D E E 
+
+There were 6 lost calls
+
