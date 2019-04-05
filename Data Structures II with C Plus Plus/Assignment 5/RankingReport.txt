@@ -1,0 +1,163 @@
+---------------------------------------------------------------------------------------
+ 
+The Heap Sort results follow
+ 
+The unsorted data follows
+Index  Rank   Name                               City                State               Zip    
+0      98     3M                                 St. Paul            Minnesota           55144  
+1      883    A. Schulman                        Fairlawn            Ohio                44333  
+2      911    A.O. Smith                         Milwaukee           Wisconsin           53224  
+3      997    AAR                                Wood Dale           Illinois            60191  
+4      810    Aaron's                            Atlanta             Georgia             30305  
+5      134    Abbott Laboratories                Abbott Park         Illinois            60064  
+6      146    AbbVie                             North Chicago       Illinois            60064  
+7      648    Abercrombie & Fitch                New Albany          Ohio                43054  
+8      515    ABM Industries                     New York            New York            10176  
+9      585    Activision Blizzard                Santa Monica        California          90405  
+990    143    Xerox                              Norwalk             Connecticut         06850  
+991    901    Xilinx                             San Jose            California          95124  
+992    909    XPO Logistics                      Greenwhich          Connecticut         06831  
+993    626    Xylem                              Rye Brook           New York            10573  
+994    561    Yahoo                              Sunnyvale           California          94089  
+995    510    YRC Worldwide                      Overland Park       Kansas              66211  
+996    228    Yum Brands                         Louisville          Kentucky            40213  
+997    555    Zimmer Holdings                    Warsaw              Indiana             46580  
+998    907    Zions Bancorp.                     Salt Lake City      Utah                84133  
+999    538    Zoetis                             Florham Park        New Jersey          07932  
+ 
+The sorted data follows
+Index  Rank   Name                               City                State               Zip    
+953    1      Walmart                            Bentonville         Arkansas            72716  
+340    2      Exxon Mobil                        Irving              Texas               75039  
+195    3      Chevron                            San Ramon           California          94583  
+126    4      Berkshire Hathaway                 Omaha               Nebraska            68131  
+81     5      Apple                              Cupertino           California          95014  
+379    6      General Motors                     Detroit             Michigan            48265  
+701    7      Phillips 66                        Houston             Texas               77042  
+376    8      General Electric                   Fairfield           Connecticut         06828  
+363    9      Ford Motor                         Dearborn            Michigan            48126  
+258    10     CVS Health                         Woonsocket          Rhode Island        02895  
+443    991    Hovnanian Enterprises              Red Bank            New Jersey          07701  
+979    992    Willbros Group                     Houston             Texas               77027  
+962    993    Wendy's                            Dublin              Ohio                43017  
+473    994    International Game Technology      Las Vegas           Nevada              89113  
+846    995    Synopsys                           Mountain View       California          94043  
+921    996    Universal American                 White Plains        New York            10601  
+3      997    AAR                                Wood Dale           Illinois            60191  
+792    998    Selective Insurance Group          Branchville         New Jersey          07890  
+373    999    Gartner                            Stamford            Connecticut         06902  
+298    1000   E*Trade Financial                  New York            New York            10020  
+ 
+The number of iterations is: 8449
+ 
+---------------------------------------------------------------------------------------
+ 
+The Quick Sort results follow
+ 
+The unsorted data follows
+Index  Rank   Name                               City                State               Zip    
+0      98     3M                                 St. Paul            Minnesota           55144  
+1      883    A. Schulman                        Fairlawn            Ohio                44333  
+2      911    A.O. Smith                         Milwaukee           Wisconsin           53224  
+3      997    AAR                                Wood Dale           Illinois            60191  
+4      810    Aaron's                            Atlanta             Georgia             30305  
+5      134    Abbott Laboratories                Abbott Park         Illinois            60064  
+6      146    AbbVie                             North Chicago       Illinois            60064  
+7      648    Abercrombie & Fitch                New Albany          Ohio                43054  
+8      515    ABM Industries                     New York            New York            10176  
+9      585    Activision Blizzard                Santa Monica        California          90405  
+990    143    Xerox                              Norwalk             Connecticut         06850  
+991    901    Xilinx                             San Jose            California          95124  
+992    909    XPO Logistics                      Greenwhich          Connecticut         06831  
+993    626    Xylem                              Rye Brook           New York            10573  
+994    561    Yahoo                              Sunnyvale           California          94089  
+995    510    YRC Worldwide                      Overland Park       Kansas              66211  
+996    228    Yum Brands                         Louisville          Kentucky            40213  
+997    555    Zimmer Holdings                    Warsaw              Indiana             46580  
+998    907    Zions Bancorp.                     Salt Lake City      Utah                84133  
+999    538    Zoetis                             Florham Park        New Jersey          07932  
+ 
+The sorted data follows
+Index  Rank   Name                               City                State               Zip    
+953    1      Walmart                            Bentonville         Arkansas            72716  
+340    2      Exxon Mobil                        Irving              Texas               75039  
+195    3      Chevron                            San Ramon           California          94583  
+126    4      Berkshire Hathaway                 Omaha               Nebraska            68131  
+81     5      Apple                              Cupertino           California          95014  
+379    6      General Motors                     Detroit             Michigan            48265  
+701    7      Phillips 66                        Houston             Texas               77042  
+376    8      General Electric                   Fairfield           Connecticut         06828  
+363    9      Ford Motor                         Dearborn            Michigan            48126  
+258    10     CVS Health                         Woonsocket          Rhode Island        02895  
+443    991    Hovnanian Enterprises              Red Bank            New Jersey          07701  
+979    992    Willbros Group                     Houston             Texas               77027  
+962    993    Wendy's                            Dublin              Ohio                43017  
+473    994    International Game Technology      Las Vegas           Nevada              89113  
+846    995    Synopsys                           Mountain View       California          94043  
+921    996    Universal American                 White Plains        New York            10601  
+3      997    AAR                                Wood Dale           Illinois            60191  
+792    998    Selective Insurance Group          Branchville         New Jersey          07890  
+373    999    Gartner                            Stamford            Connecticut         06902  
+298    1000   E*Trade Financial                  New York            New York            10020  
+ 
+The number of iterations is: 7279
+ 
+---------------------------------------------------------------------------------------
+ 
+The Merge Sort results follow
+ 
+The unsorted data follows
+Index  Rank   Name                               City                State               Zip    
+0      98     3M                                 St. Paul            Minnesota           55144  
+1      883    A. Schulman                        Fairlawn            Ohio                44333  
+2      911    A.O. Smith                         Milwaukee           Wisconsin           53224  
+3      997    AAR                                Wood Dale           Illinois            60191  
+4      810    Aaron's                            Atlanta             Georgia             30305  
+5      134    Abbott Laboratories                Abbott Park         Illinois            60064  
+6      146    AbbVie                             North Chicago       Illinois            60064  
+7      648    Abercrombie & Fitch                New Albany          Ohio                43054  
+8      515    ABM Industries                     New York            New York            10176  
+9      585    Activision Blizzard                Santa Monica        California          90405  
+990    143    Xerox                              Norwalk             Connecticut         06850  
+991    901    Xilinx                             San Jose            California          95124  
+992    909    XPO Logistics                      Greenwhich          Connecticut         06831  
+993    626    Xylem                              Rye Brook           New York            10573  
+994    561    Yahoo                              Sunnyvale           California          94089  
+995    510    YRC Worldwide                      Overland Park       Kansas              66211  
+996    228    Yum Brands                         Louisville          Kentucky            40213  
+997    555    Zimmer Holdings                    Warsaw              Indiana             46580  
+998    907    Zions Bancorp.                     Salt Lake City      Utah                84133  
+999    538    Zoetis                             Florham Park        New Jersey          07932  
+ 
+The sorted data follows
+Index  Rank   Name                               City                State               Zip    
+953    1      Walmart                            Bentonville         Arkansas            72716  
+340    2      Exxon Mobil                        Irving              Texas               75039  
+195    3      Chevron                            San Ramon           California          94583  
+126    4      Berkshire Hathaway                 Omaha               Nebraska            68131  
+81     5      Apple                              Cupertino           California          95014  
+379    6      General Motors                     Detroit             Michigan            48265  
+701    7      Phillips 66                        Houston             Texas               77042  
+376    8      General Electric                   Fairfield           Connecticut         06828  
+363    9      Ford Motor                         Dearborn            Michigan            48126  
+258    10     CVS Health                         Woonsocket          Rhode Island        02895  
+443    991    Hovnanian Enterprises              Red Bank            New Jersey          07701  
+979    992    Willbros Group                     Houston             Texas               77027  
+962    993    Wendy's                            Dublin              Ohio                43017  
+473    994    International Game Technology      Las Vegas           Nevada              89113  
+846    995    Synopsys                           Mountain View       California          94043  
+921    996    Universal American                 White Plains        New York            10601  
+3      997    AAR                                Wood Dale           Illinois            60191  
+792    998    Selective Insurance Group          Branchville         New Jersey          07890  
+373    999    Gartner                            Stamford            Connecticut         06902  
+298    1000   E*Trade Financial                  New York            New York            10020  
+ 
+The number of iterations is: 19952
+ 
+---------------------------------------------------------------------------------------
+ 
+The summary of iterations follows
+ 
+The number of iterations for the heap soft was 8449
+The number of iterations for the quick soft was 7279
+The number of iterations for the merge soft was 19952
